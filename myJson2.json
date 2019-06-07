@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "joyonto",
+        "city": "nilphamari",
+        "phoneNumber": "01793317997",
+        "Gender": "male"
+    },
+    {
+        "id": 2,
+        "name": "lata",
+        "city": "nilphamari",
+        "phoneNumber": "01793317996",
+        "Gender": "female"
+    },
+    {
+        "id": 3,
+        "name": "kumar",
+        "city": "nilphamari",
+        "phoneNumber": "01318920484",
+        "Gender": "male"
+    }
+]
